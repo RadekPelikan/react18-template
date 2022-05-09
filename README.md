@@ -1,4 +1,4 @@
-# Gettng started
+# Getting started
 
 ## Additional dependencies
 

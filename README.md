@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# Gettng started
+
+## Additional dependencies
+
+- react-redux
+- reduxjs/toolkit
+- react-icons
+- react-router-dom@6
+- styled-components
+
+I'm open to suggestions of improving my template
+
+# Modified from Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
